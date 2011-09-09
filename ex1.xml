@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<T class="x">
+	<row>
+		<col>1a</col>
+		<col>1b</col>
+		<col>1c</col>
+		<col>1d</col>
+	</row>
+	<row>
+		<col>2a</col>
+		<col>2b</col>
+		<col>2c</col>
+		<col>2d</col>
+	</row>
+</T>
