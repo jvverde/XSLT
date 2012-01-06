@@ -1,7 +1,7 @@
 This jquery plugin is just a wrapper to XSLT Processor.
 There are another excelente plugin (http://plugins.jquery.com/project/Transform) but the result 
 is assumed to be HTML and always used as html content of instance element.
-Our plugin instead of provide a instance method it provides a static method $.XSLTransform
+Our plugin instead of provide an instance method it provides a static method $.XSLTransform
 which receives a object map as a parameter.
 The map has the following keys
 	xmlurl - The XML URL
